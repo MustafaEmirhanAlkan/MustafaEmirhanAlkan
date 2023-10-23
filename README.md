@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Online Video Conferancing System Application and Web Site.
-- 🌱 I’m currently learning Excel and React.
-- 👯 I’m looking to collaborate on no projects until I've finished my 3 projects. If it doesn't interest me too much.
-- 🤔 I’m looking for help with SEO and React.
-- 💬 Ask me about Java, Python, NodeJS and Figma.
-- 📫 How to reach me: alkan.mustafaemirhan@mail.com
+- 🔭 I’m currently working on my own game called Kebab Game (Kitchen Game).
+- 🌱 I’m currently learning Unity, Blender and C#.
+- 👯 I’m looking to collaborate on no projects until I've finished my game. If it doesn't interest me too much.
+- 🤔 I’M LOOKING FOR A JOB IN GAME INDUSTRY..
+- 💬 Ask me about Unity, C#, Blender, Java, Python, C++, Node.js, Figma, Excel and React.
+- 📫 How to reach me: alkan.mustafaemirhan@gmail.com
 - 👨‍💻 All of my projects are available at: https://github.com/MustafaEmirhanAlkan
 - ⚡ Fun fact: I'm also working on Project Management.
 - Instagram: @progremmir 
