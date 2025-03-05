@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my own game called Kebab Game (Kitchen Game).
-- 🌱 I’m currently learning Unity, Blender and C#.
-- 👯 I’m looking to collaborate on no projects until I've finished my game. If it doesn't interest me too much.
+- 🔭 I’m currently working on my own personal website.
+- 🌱 I’m currently learning Unreal Engine and C++.
+- 👯 I'm open to collaborating on projects that genuinely interest me.
 - 🤔 I’M LOOKING FOR A JOB IN GAME INDUSTRY..
-- 💬 Ask me about Unity, C#, Blender, Java, Python, C++, Node.js, Figma, Excel and React.
+- 💬 Ask me about Ureal Engine, C++, Unity, C#, Blender, Java, Python, Node.js, Figma, Excel and React.
 - 📫 How to reach me: alkan.mustafaemirhan@gmail.com
 - 👨‍💻 All of my projects are available at: https://github.com/MustafaEmirhanAlkan
-- ⚡ Fun fact: I'm also working on Project Management.
+- ⚡ Fun fact: I have a personal website, www.mustafaemirhanalkan.com, where I showcase my projects and introduce myself.
 - Instagram: @progremmir 
 <!--
 **MustafaEmirhanAlkan/MustafaEmirhanAlkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
